@@ -1,0 +1,58 @@
+Text Analysis NLP App
+Example:
+--Comment--
+COO is an asshole and dumb ass. I hate coming to work because of her.
+--Reply--
+You should not use profanities like 'ass, asshole' because it is unprofessional and hurtful. Personality attacking like calling them, or even yourself, 'hate, dumb' is damaging to the esteem of the recipient, instead focus on calling out behaviours. Looks like your language level is a little too simplistic, consider writing more comprehensive comment rather than short ones. Use the situation-behaviour-impact as a guide. Hm... there appears to be no work related skills or work actions mentioned, please consider appropriateness of your feedback in workplace setting only and provide specific work behaviours examples to give context.
+--Comment--
+My manager is a bit too emotional. She is a stupid bitch. She should keep her mouth shut.
+--Reply--
+You should not use profanities like 'bitch' because it is unprofessional and hurtful. Avoid judgemental words like 'should' because this tends to put recipient in defensive mode. Personality attacking like calling them, or even yourself, 'emotional, stupid, bitch' is damaging to the esteem of the recipient, instead focus on calling out behaviours. The overall comment has very negative sentiment, please consider using the sandwich approach to highlight positive behaviours before giving negative criticism followed by positive suggestions. Hm... there appears to be no work related skills or work actions mentioned, please consider appropriateness of your feedback in workplace setting only and provide specific work behaviours examples to give context.
+--Comment--
+My manager is an real idiot, likes to micromanage me and tell me what to do as if as I am dumb. I lose interest in putting best effort in work because of him.
+--Reply--
+Personality attacking like calling them, or even yourself, 'idiot, dumb' is damaging to the esteem of the recipient, instead focus on calling out behaviours. Hm... there appears to be no work related skills or work actions mentioned, please consider appropriateness of your feedback in workplace setting only and provide specific work behaviours examples to give context.
+--Comment--
+I want you to start writing the marketing reports. You should not be waiting for me each time to tell you to do so.
+--Reply--
+Avoid judgemental words like 'should' because this tends to put recipient in defensive mode.
+--Comment--
+Cannot do anything right, I kept asking her to change the report but she did not. She kept complaining things are not working but I don't see her making any efforts to correct them. I don't know how to help her anymore.
+--Reply--
+Personality attacking like calling them, or even yourself, 'complaining' is damaging to the esteem of the recipient, instead focus on calling out behaviours. The overall comment has very negative sentiment, please consider using the sandwich approach to highlight positive behaviours before giving negative criticism followed by positive suggestions. Hm... there appears to be no work related skills or work actions mentioned, please consider appropriateness of your feedback in workplace setting only and provide specific work behaviours examples to give context.
+--Comment--
+I like her. You will like her too. She is nice.
+--Reply--
+Looks like your language level is a little too simplistic, consider writing more comprehensive comment rather than short ones. Use the situation-behaviour-impact as a guide. Hm... there appears to be no work related skills or work actions mentioned, please consider appropriateness of your feedback in workplace setting only and provide specific work behaviours examples to give context.
+--Comment--
+He is good. I enjoy working with him.
+--Reply--
+Looks like your language level is a little too simplistic, consider writing more comprehensive comment rather than short ones. Use the situation-behaviour-impact as a guide. Hm... there appears to be no work related skills or work actions mentioned, please consider appropriateness of your feedback in workplace setting only and provide specific work behaviours examples to give context.
+--Comment--
+He is able to write Python codes, SQL script, manage AWS Cloud, and has PMP qualifications. Very good in what she is doing.
+--Reply--
+Looks like your language level is a little too simplistic, consider writing more comprehensive comment rather than short ones. Use the situation-behaviour-impact as a guide.
+--Comment--
+I have heard about the 4 Future Fit themes: Customer centricity, Acting as One, Agility and Accountability
+--Reply--
+You seem to have insuffient words to describe the person's behaviour, try using more action verbs. Hm... there appears to be no work related skills or work actions mentioned, please consider appropriateness of your feedback in workplace setting only and provide specific work behaviours examples to give context.
+--Comment--
+Alice did not show participation in the zoom meetings and was not responsive. She need to work on her communication skills.
+--Reply--
+Avoid judgemental words like 'need' because this tends to put recipient in defensive mode.
+--Comment--
+Fourier based methods such as the Lomb–Scargle periodogram [35], the fast Fourier transform-nonlinear least squares (FFT-NLLS) algorithm [36], harmonic regression [37] and the spectrum resampling method [38] can be used to extract further parameters, namely acrophase, amplitude and period, that are typically of interest to studies of circadian rhythmicity.
+--Reply--
+You writing style is too technical or complex for normal person to understand. Hm... there appears to be no work related skills or work actions mentioned, please consider appropriateness of your feedback in workplace setting only and provide specific work behaviours examples to give context.
+--Comment--
+The federal industrial laws about workplace agreements have changed a number of times in recent years. Before the WorkChoices laws came into effect in March 2006, workplace agreements were called Certified Agreements (agreements between an employer and a group of employees) and Australian Workplace Agreements or AWAs (agreements between an employer and an individual employee).
+--Reply--
+You seem to have insuffient words to describe the person's behaviour, try using more action verbs. Hm... there appears to be no work related skills or work actions mentioned, please consider appropriateness of your feedback in workplace setting only and provide specific work behaviours examples to give context.
+--Comment--
+I'm really happy with your determination to finish this project. I know it wasn't easy, but I knew you could do it. Your helpful attitude makes it clear that you can continue to take on new challenges and grow with the company. Thank you for your extra effort.
+--Reply--
+Well done. Your comment is well written. You have mentioned about these skills Collaboration
+--Comment--
+All the training you have done with Rico has been very helpful. You're giving him a great start to his internship. I have taken notice of your leadership skills and will keep this in mind for future projects.
+--Reply--
+Well done. Your comment is well written. You have mentioned about these skills Collaboration, Technical Foundation, Leadership Skills, Leadership

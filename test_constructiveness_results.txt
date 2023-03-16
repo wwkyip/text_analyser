@@ -1,0 +1,105 @@
+
+----
+
+COO is an asshole and dumb ass. I hate coming to work because of her.
+
+Constructiveness 0.11573184148959649
+
+----
+
+My manager is a bit too emotional. She is a stupid bitch. She should keep her mouth shut.
+
+Constructiveness 0.10977425683192234
+
+----
+
+My manager is an real idiot, likes to micromanage me and tell me what to do as if as I am dumb. I lose interest in putting best effort in work because of him.
+
+Constructiveness 0.4175454990609018
+
+----
+
+I want you to start writing the marketing reports. You should not be waiting for me each time to tell you to do so.
+
+Constructiveness 0.09511964220663861
+
+----
+
+Cannot do anything right, I kept asking her to change the report but she did not. She kept complaining things 
+             are not working but I don't see her making any efforts to correct them. I don't know how to help her anymore.
+
+Constructiveness 0.8320394075337955
+
+----
+
+I like her. You will like her too. She is nice.
+
+Constructiveness 0.08481552601234962
+
+----
+
+He is good. I enjoy working with him.
+
+Constructiveness 0.05926700695128609
+
+----
+
+He is able to write Python codes, SQL script, manage AWS Cloud, and has PMP qualifications. Very good in what she is doing. 
+
+Constructiveness 0.12685479544076933
+
+----
+
+I have heard about the 4 Future Fit themes: Customer centricity, Acting as One, Agility and Accountability
+
+Constructiveness 0.013439375419211355
+
+----
+
+Alice did not show participation in the zoom meetings and was not responsive. She need to work on her communication skills.
+
+Constructiveness 0.2178776727951535
+
+----
+
+Fourier based methods such as the Lomb–Scargle periodogram [35], the fast Fourier 
+            transform-nonlinear least squares (FFT-NLLS) algorithm [36], harmonic regression [37] 
+            and the spectrum resampling method [38] can be used to extract further parameters, 
+            namely acrophase, amplitude and period, that are typically of interest to studies of 
+            circadian rhythmicity.
+
+Constructiveness 0.7446985195761051
+
+----
+
+The federal industrial laws about workplace agreements have changed a number of times in recent years. Before the WorkChoices laws came 
+            into effect in March 2006, workplace agreements were called Certified Agreements (agreements between an employer and a group of employees) 
+            and Australian Workplace Agreements or AWAs (agreements between an employer and an individual employee).
+
+Constructiveness 0.5912047222685467
+
+----
+
+I'm really happy with your determination to finish this project. I know it wasn't easy, but I knew you could do it. 
+            Your helpful attitude makes it clear that you can continue to take on new challenges and grow with the company. Thank you for your extra effort.
+
+Constructiveness 0.9358534307480629
+
+----
+
+Create greater transparency and understanding for how pay raises and bonuses are applied. 
+            At one company, during the performance review process each employee was given a packet 
+            with their feedback and details on their merit increases and bonus; it explained the 
+            precise formula for how their bonus and merit raise was calculated. Because the formula 
+            was the same for everyone, it increased the perceived fairness of company-wide compensation.
+            
+
+Constructiveness 0.9972827998593036
+
+----
+
+All the training you have done with Rico has been very helpful. 
+            You're giving him a great start to his internship. I have taken notice of your leadership skills and will keep 
+            this in mind for future projects.
+
+Constructiveness 0.9036651167651237

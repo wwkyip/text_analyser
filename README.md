@@ -2,13 +2,16 @@
 Streamlit app to analyse given text
 
 
-Install python3.7
+Install python3.8 (In sagemaker, choose base python 2.0)
+
+
 From terminal, 
 
-pip install -r requirements.txt
+pip install -r requirements_v0.txt
 
 To run streamlit:
 streamlit run app.py
 
 
-Note: pandas==1.1.0 to pandas==1.2.4
+To test constructiveness index:
+python test_constructiveness.py

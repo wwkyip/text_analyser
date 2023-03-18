@@ -7,7 +7,7 @@ Install python3.8 (In sagemaker, choose base python 2.0)
 
 From terminal, 
 
-pip install -r requirements_v0.txt
+pip install -r requirements.txt
 
 To run streamlit:
 streamlit run app.py
